@@ -1,0 +1,29 @@
+body {
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: #FFFFFFE0;
+}
+
+.row img {
+    max-height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.webdev {
+    height: 325px;
+    width: 100%;
+    background-image: url('/images/websolution.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+    fill: red;
+}
